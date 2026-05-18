@@ -14,4 +14,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Black-hat-byte&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Black-hat-byte&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Black-hat-byte&color=blue&style=flat)](https://visitcount.itsvg.in)
