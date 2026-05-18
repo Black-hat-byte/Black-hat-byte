@@ -85,13 +85,11 @@ const anuj = {
 ---
 
 ## 📊 GitHub Stats
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Black-hat-byte&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&bg_color=0d1117)<br/>
 ![](https://streak-stats.demolab.com/?user=Black-hat-byte&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&background=0d1117)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Black-hat-byte&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact&title_color=a78bfa&text_color=ffffff&bg_color=0d1117)
 ---
-[![](https://komarev.com/ghpvc/?username=Black-hat-byte&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Black-hat-byte)
+
 
 <div align="center">
 
