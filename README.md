@@ -23,33 +23,16 @@
 
 ```typescript
 const anuj = {
-  name        : "Anuj Pratap Maurya",
-  username    : "Black-hat-byte",
-  university  : "Madan Mohan Malaviya University of Technology",
-  degree      : "B.Tech CSE — 3rd Year",
-  pronouns    : "he/him",
+  name: "Anuj Pratap Maurya",
+  username: "Black-hat-byte",
+  university: "Madan Mohan Malaviya University of Technology",
+  degree: "B.Tech CSE — 3rd Year",
+  pronouns: "he/him",
   currentFocus: ["Artificial Intelligence", "Machine Learning"],
-  askMeAbout  : ["Web Dev", "TypeScript", "React", "Python"],
-  funFact     : "I debug with console.log and I'm not ashamed 😄"
+  askMeAbout: ["Web Dev", "TypeScript", "React", "Python"],
+  funFact: "I debug with console.log and I'm not ashamed 😄"
 };
 ```
-
----
-
-## 🚀 Currently Learning
-
-<div align="center">
-
-| 🤖 AI & ML | 🧠 Deep Learning | 📊 Data Science |
-|:---:|:---:|:---:|
-| Exploring ML algorithms | Neural Networks & NLP | Python data pipelines |
-
-</div>
-
-> 🔭 Working on building my first ML-powered web app  
-> 🌱 Diving deep into **Python for AI/ML** and **TensorFlow**  
-> 👯 Looking to collaborate on **open source projects**  
-> 💬 Ask me about **Web Development** or **TypeScript**
 
 ---
 
@@ -84,6 +67,23 @@ const anuj = {
 
 ---
 
+## 🚀 Currently Learning
+
+<div align="center">
+
+| 🤖 AI & ML | 🧠 Deep Learning | 📊 Data Science |
+|:---:|:---:|:---:|
+| Exploring ML algorithms | Neural Networks & NLP | Python data pipelines |
+
+</div>
+
+> 🔭 Working on building my first ML-powered web app  
+> 🌱 Diving deep into **Python for AI/ML** and **TensorFlow**  
+> 👯 Looking to collaborate on **open source projects**  
+> 💬 Ask me about **Web Development** or **TypeScript**
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -92,26 +92,6 @@ const anuj = {
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Black-hat-byte&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&background=0d1117" />
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-hat-byte&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=ffffff&bg_color=0d1117" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Black-hat-byte&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Black-hat-byte&theme=tokyo-night&hide_border=true&color=a78bfa&line=a78bfa&point=ffffff)
 
 </div>
 
