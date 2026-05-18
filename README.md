@@ -1,4 +1,21 @@
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anuj%20Pratap%20Maurya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20Ideas%20Into%20Intelligence&descAlignY=58&descSize=18&descColor=a78bfa"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=3rd+Year+B.Tech+CSE+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+
+<br/>
+
+> *"The best way to predict the future is to build it with code."*
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Black-hat-byte&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-pratap-maurya-577985294/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Black-hat-byte)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anujpratapmaurya5@gmail.com)
+
+</div>
 
 ---
 
@@ -6,26 +23,17 @@
 
 ```typescript
 const anuj = {
-  name: "Anuj Pratap Maurya",
-  username: "Black-hat-byte",
-  university: "Madan Mohan Malaviya University of Technology",
-  degree: "B.Tech CSE — 3rd Year",
-  pronouns: "he/him",
+  name        : "Anuj Pratap Maurya",
+  username    : "Black-hat-byte",
+  university  : "Madan Mohan Malaviya University of Technology",
+  degree      : "B.Tech CSE — 3rd Year",
+  pronouns    : "he/him",
   currentFocus: ["Artificial Intelligence", "Machine Learning"],
-  askMeAbout: ["Web Dev", "TypeScript", "React", "Python"],
-  funFact: "I debug with console.log and I'm not ashamed 😄"
+  askMeAbout  : ["Web Dev", "TypeScript", "React", "Python"],
+  funFact     : "I debug with console.log and I'm not ashamed 😄"
 };
 ```
-<div align="center">
 
-
-<!-- Profile Views & Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=Black-hat-byte&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-pratap-maurya-577985294/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Black-hat-byte)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anujpratapmaurya5@gmail.com)
-
-</div>
 ---
 
 ## 🚀 Currently Learning
@@ -89,17 +97,21 @@ const anuj = {
 
 ---
 
-## 🤝 Let's Connect!
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anuj%20Pratap%20Maurya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-pratap-maurya-577985294/)
-[![GitHub](https://img.shields.io/badge/GitHub-Black--hat--byte-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Black-hat-byte)
-[![Email](https://img.shields.io/badge/Gmail-anujpratapmaurya5-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anujpratapmaurya5@gmail.com)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Black-hat-byte&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10)
 
-<br/>
+</div>
 
-*💡 Open to internships, collaborations, and open source contributions!*
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Black-hat-byte&theme=tokyo-night&hide_border=true&color=a78bfa&line=a78bfa&point=ffffff)
 
 </div>
 
@@ -107,6 +119,6 @@ const anuj = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+*💡 Open to internships, collaborations, and open source contributions!*
 
 </div>
