@@ -1,13 +1,4 @@
-<div align="center">
 
-
-<!-- Profile Views & Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=Black-hat-byte&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-pratap-maurya-577985294/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Black-hat-byte)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anujpratapmaurya5@gmail.com)
-
-</div>
 
 ---
 
@@ -25,7 +16,16 @@ const anuj = {
   funFact: "I debug with console.log and I'm not ashamed 😄"
 };
 ```
+<div align="center">
 
+
+<!-- Profile Views & Social Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=Black-hat-byte&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-pratap-maurya-577985294/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Black-hat-byte)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anujpratapmaurya5@gmail.com)
+
+</div>
 ---
 
 ## 🚀 Currently Learning
@@ -84,26 +84,6 @@ const anuj = {
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Black-hat-byte&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&background=0d1117" />
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Black-hat-byte&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=ffffff&bg_color=0d1117" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Black-hat-byte&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Black-hat-byte&theme=tokyo-night&hide_border=true&color=a78bfa&line=a78bfa&point=ffffff)
 
 </div>
 
